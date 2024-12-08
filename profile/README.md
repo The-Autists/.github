@@ -19,10 +19,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a community on discord**
-- 🌱 I'm currently learning: **📚 Acceptance of generalizations**
-- 💬 Ask me about: **What it is like to be Autistic**
-- ⚡ Fun fact: **I once debugged a issue while on a roller coaster!**
+- We are currently working on: **💻 Developing a community on [discord](https://discord.gg/awfixer)**
+- We are currently learning: **📚 Acceptance of generalizations**
+- Ask us about: **What it is like to be Autistic**
+- ⚡ Fun fact: **one of us once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="theautismcommunity.net/projects" target="_blank">theautismcommunity.net/projects</a>**
 - 📝 Blog: **<a href="blog.awfixer.dev" target="_blank">blog.awfixer.dev</a>**
 
