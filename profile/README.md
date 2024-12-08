@@ -23,8 +23,8 @@
 - We are currently learning: **📚 Acceptance of generalizations**
 - Ask us about: **What it is like to be Autistic**
 - ⚡ Fun fact: **one of us once debugged a issue while on a roller coaster!**
-- Portfolio: **<a href="theautismcommunity.net/projects" target="_blank">theautismcommunity.net/projects</a>**
-- Blog: **<a href="blog.awfixer.dev" target="_blank">blog.awfixer.dev</a>**
+- Portfolio: **<a href="theautismcommunity.net/projects" target="_blank">https://theautismcommunity.net/projects</a>**
+- Blog: **<a href="blog.awfixer.dev" target="_blank">https://blog.awfixer.dev</a>**
 
 
  **<h3 align="left">Skills</h3>**
