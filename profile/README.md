@@ -16,7 +16,7 @@
 <p align="left"><a href="https://github.com/the-autists" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/awfixer" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@awfixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
-**<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals. If you are interested in all realted websites check our sister organizaton [Axyl Sites](https://github.com/axyl-sites)</h2>**
+**<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals. If you are interested in all related websites check our sister organizaton [Axyl Sites](https://github.com/axyl-sites)</h2>**
 
 **<h3 align="center">This organization is a premium Teams organization, because of the need for features not availible in the free version, membership of this organization costs $5 or the equivilant amount of work per month, this is not personal, just know we are not made of money</h3>**
 
@@ -29,8 +29,8 @@
 - We are currently learning: **📚 Acceptance of generalizations**
 - Ask us about: **What it is like to be Autistic**
 - ⚡ Fun fact: **one of us once debugged a issue while on a roller coaster!**
-- Portfolio: **<a href="theautismcommunity.net/projects" target="_blank">https://theautismcommunity.net/projects</a>**
-- Blog: **<a href="blog.awfixer.dev" target="_blank">https://blog.awfixer.dev</a>**
+- Portfolio: **<a href="awfixer.me/projects" target="_blank">https://awfixer.me/projects</a>**
+- Blog: **<a href="blog.awfixer.me" target="_blank">https://blog.awfixer.me</a>**
 
 
  **<h3 align="left">Skills</h3>**
