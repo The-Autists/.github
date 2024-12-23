@@ -18,7 +18,7 @@
 
 **<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals. If you are interested in all realted websites check our sister organizaton [Axyl Sites](https://github.com/axyl-sites)</h2>**
 
-**<h3 align="center">This organization is a premium Teams organization, because of the need for features not availible in the free version, membership of this organization costs $5 or the equivilant amount of work per month, this is not personal, just know we are not made of money</h3>
+**<h3 align="center">This organization is a premium Teams organization, because of the need for features not availible in the free version, membership of this organization costs $5 or the equivilant amount of work per month, this is not personal, just know we are not made of money</h3>**
 
 
  **<h3 align="left">hello, we are passtionate developers, and we work on bringing that to other people, you can join our [discord](https://discord.gg/awfixer)</h3>**
