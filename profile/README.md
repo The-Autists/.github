@@ -18,8 +18,9 @@
 
 **<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals. If you are interested in all related websites check our sister organizaton [Axyl Sites](https://github.com/axyl-sites)</h2>**
 
-**<h3 align="center">This organization is a premium Teams organization, because of the need for features not availible in the free version, membership of this organization costs $5 or the equivilant amount of work per month, this is not personal, just know we are not made of money</h3>**
+**<h3 align="center">This organization is a github hosted enterprise, no new members outside of the max 11 members. We will work as well as we can with you, but we are only allowing the board of directors to be members on github</h3>**
 
+**<h1 align="center">Please see our [License](https://github.com/The-Autists/.github/blob/master/LICENSE.md) before using any of our code</h1>**
 
  **<h3 align="left">hello, we are passtionate developers, and we work on bringing that to other people, you can join our [discord](https://discord.gg/awfixer)</h3>**
 
