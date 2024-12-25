@@ -31,7 +31,7 @@
 - Ask us about: **What it is like to be Autistic**
 - ⚡ Fun fact: **one of us once debugged a issue while on a roller coaster!**
 - Website: **<a href="theautismcommunity.net" target="_blank">https://theautismcommunity.net</a>**
-- Blog: **<a href="axyl.blog" target="_blank">https://axyl.blog</a>**
+- Blog: **<a href="The Movement" target="_blank">https://the-movement.ghost.io</a>**
 
 # Our Policies:
 
