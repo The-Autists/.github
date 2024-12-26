@@ -16,7 +16,7 @@
 <p align="left"><a href="https://github.com/the-autists" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/awfixer" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@awfixer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
-**<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals. If you are interested in all related websites check our sister organizaton [Axyl Sites](https://github.com/axyl-sites)</h2>**
+**<h2 align="center">We have a focus on automation, progress, and ease of use. Our Projects are all aiming to achieve these goals.</h2>
 
 **<h3 align="center">This organization is a github hosted enterprise, no new members outside of the max 11 members. We will work as well as we can with you, but we are only allowing the board of directors to be members on github</h3>**
 
